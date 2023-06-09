@@ -37,7 +37,4 @@ This is a simple web application that allows you to count the number of people w
 5. The background image and styling of the application can be customized by modifying the CSS code in the `index.css` file.
 
 
-
-## Owner
-
-This project is licensed under the [MIT License](LICENSE). You are free to modify, distribute, and use the code in any way you see fit.
+Thank you!
