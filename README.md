@@ -38,6 +38,4 @@ This is a simple web application that allows you to count the number of people w
 
 ## License
 
-This project is licensed under the MIT License. You are free to modify, distribute, and use the code in any way you see fit.
-
-Thank you!
+This project is licensed under the [MIT License](LICENSE). You are free to modify, distribute, and use the code in any way you see fit.
